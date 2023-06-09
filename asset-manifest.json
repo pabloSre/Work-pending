@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pabloSre/Work-pending/static/css/main.e1d03b1d.css",
-    "main.js": "/pabloSre/Work-pending/static/js/main.f3243a2b.js",
-    "index.html": "/pabloSre/Work-pending/index.html",
-    "static/media/cancel.svg": "/pabloSre/Work-pending/static/media/cancel.67697f56fd2f149bc9515a879062ad5c.svg",
-    "static/media/check-green.svg": "/pabloSre/Work-pending/static/media/check-green.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.e1d03b1d.css.map": "/pabloSre/Work-pending/static/css/main.e1d03b1d.css.map",
-    "main.f3243a2b.js.map": "/pabloSre/Work-pending/static/js/main.f3243a2b.js.map"
+    "main.css": "/Work-pending/static/css/main.e1d03b1d.css",
+    "main.js": "/Work-pending/static/js/main.a0ff3534.js",
+    "index.html": "/Work-pending/index.html",
+    "static/media/cancel.svg": "/Work-pending/static/media/cancel.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check-green.svg": "/Work-pending/static/media/check-green.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.e1d03b1d.css.map": "/Work-pending/static/css/main.e1d03b1d.css.map",
+    "main.a0ff3534.js.map": "/Work-pending/static/js/main.a0ff3534.js.map"
   },
   "entrypoints": [
     "static/css/main.e1d03b1d.css",
-    "static/js/main.f3243a2b.js"
+    "static/js/main.a0ff3534.js"
   ]
 }
