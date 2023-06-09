@@ -1,0 +1,12 @@
+.Search {
+  font-family:'Oswald', sans-serif ;
+  background-color: transparent;
+  border: 2px solid #a88bff;/* 
+  border-style: dashed; */
+  border-radius: 20px;
+  width: 400px;
+  text-align: center;
+}
+.Search:focus {
+  outline-color: #36b5ff ;
+} 

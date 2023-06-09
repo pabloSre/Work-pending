@@ -1,0 +1,35 @@
+.Loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.LoadingAnim {
+  
+  -webkit-animation: rotate-center 2s ease-in-out both;
+	animation: rotate-center 2s ease-in-out both;
+}
+.GiAbs {
+  width: 250px;
+  height: 250px;
+  color: rgb(216, 93, 221);
+}
+@-webkit-keyframes rotate-center {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes rotate-center {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
